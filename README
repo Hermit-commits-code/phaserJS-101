@@ -1,1 +1,39 @@
 # PhaserJS 101
+
+Welcome to the PhaserJS 101 project! This project was originally archived by Zenva.com in 2018 as part of a course I purchased. Today, I am excited to complete it and share my progress.
+
+## Project Overview
+
+This project is a simple game built using the PhaserJS framework. PhaserJS is a fast, free, and fun open-source framework for Canvas and WebGL-powered browser games.
+
+## Getting Started
+
+To get started with this project, simply open the `index.html` file in your browser. The game will load and you can start playing immediately.
+
+### Prerequisites
+
+- A modern web browser (Chrome, Firefox, Safari, Edge)
+- Basic knowledge of JavaScript and HTML
+
+## Project Structure
+
+The project consists of the following files and directories:
+
+- `index.html`: The main HTML file that loads the game.
+- `js/game.js`: The JavaScript file containing the game logic.
+- `js/phaser.min.js`: The PhaserJS library.
+- `assets/`: Directory for game assets (images, sounds, etc.).
+
+## Acknowledgements
+
+I would like to thank Zenva.com for providing the course and resources that made this project possible.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+If you have any questions or feedback, feel free to reach out to me.
+
+Happy coding!
