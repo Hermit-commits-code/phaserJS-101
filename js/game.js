@@ -1,6 +1,10 @@
 // Create a new scene
 let gameScene = new Phaser.Scene('Game');
 
+// Pre-Load Assets
+gameScene.preload = function(){
+  this.load.image('background', 'assets/background.png')
+}
 // Set the configuration of the game
 let config = {
   type: Phaser.AUTO , // Phaser will use WebGL if available, if not it will use Canvas
